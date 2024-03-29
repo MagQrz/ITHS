@@ -1,1 +1,10 @@
+#Labb 1 Uppgift 1 - Talseriesumma
+#Låt användaren mata in ett heltal
+givetheltal = int(input("Mata in ett heltal "))
 
+summan=0 #Nollställ summan
+for x in range(1,givetheltal+1):
+    summan += x #adderar stigande ett steg i taget
+
+#Skriv ut resultatet
+print(f'Summan av alla heltal upp till {givetheltal} blir {summan}')
