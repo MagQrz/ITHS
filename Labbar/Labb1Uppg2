@@ -1,1 +1,25 @@
+# Labb 1 Uppgift 2 - Skapa en sträng av en lista upp till godtyckligt index
+#Låt användaren mata in en sträng / eller välj själv nedan
+#mening = input("Mata in en mening :")
+mening = "Hej på dig ! Hur mår du idag min vän ?"
+
+#Splitta strängen till en lista - nu har vi vår lista med ord
+orden = mening.split()
+
+#Ta reda på antal ord
+AntalOrd=len(orden)
+halften=AntalOrd//2  #Heltalsdivision, för att ta en del av listan, kunde vara ett index
+
+#Skapa sträng av hälften av orden med hjälp av loop
+nystrang=""
+for i in range(halften):
+    nystrang += orden[i]
+    if i != halften - 1:  #lägger till mellanrum mellan orden
+        nystrang += ' '
+
+#Skriv ut alla för att verifiera och lära
+print(orden)
+print(AntalOrd)
+print(halften)
+print(nystrang)
 
