@@ -3,9 +3,9 @@ Uppdaterat 2024-04-06
 1. Mina allmänna intryck så här efter 2-3 kurstillfällen med fokus på Python programmering.
 Jag tycker dina genomgångar är bra, och jag förstår vad du gör och logiken i kodning och syntax. Men jag är över 55 år och och min hjärna är förvisso kreativ men ganska trög när det gäller inlärning. Det innebär att jag vet vad jag vill göra men jag kommer inte naturligt ihåg syntaxen. Så vid kodningen tycker jag det går trögt/långsamt jämfört när jag kodar i php, vb sql och annat jag är van vid. Jag måste kolla varje steg för att fatta logiken och komma ihåg syntaxen rörande variabler, anrop av funktioner etc etc.
 
-Det jag märker att jag har svårt med är valet mellan listor, tuples etc - när och varför. Och sedan funktionernas uppbyggnad just när det gäller anrop (vad som ska vara med och hur skrivas i parantesen). Men jag inser att det är bara att nöta på, läsa kod och labba själv för att till sist ska sitta mer naturligt.
+Det jag märker att jag har svårt med är valet mellan listor, tuples etc etc - när och varför. Och sedan funktionernas uppbyggnad just när det gäller anrop (vad som ska vara med och hur skrivas i parantesen). Men jag inser att det är bara att nöta på, läsa kod och labba själv för att till sist ska sitta mer naturligt.
 
-När jag kör fast har jag dels en kurs bok om Python, dels tittar jag på webben och ibland frågar jag chatt GPP. Tillsammans ger detta inlärningssteg för steg.
+När jag kör fast har jag dels en kurs bok om Python, dels tittar jag på webben och ibland frågar jag chatt GPT. Tillsammans ger detta inlärningssteg för steg.
 
 Jag inser dock ödmjukt att min kod för närvarande troligen är ganska ineffektiv och för ordrik, men att jag efterhand när jag lär mig knepen kan skriva mer effektivare koncentrerad kod.
 
@@ -29,5 +29,6 @@ Sedan kommer vi till aktuell kurs labb, då valde jag att börja med med Sten sa
 
 De heter:
 StoneScissorsPaper.py
+StoneScissorsPaper2.py
 
 
